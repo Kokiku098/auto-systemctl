@@ -1,4 +1,4 @@
-# auto-systemctl
+```bash # auto-systemctl
 
 
 nano /etc/systemd/system/pharos-bot.service
